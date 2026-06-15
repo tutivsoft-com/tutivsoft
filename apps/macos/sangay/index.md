@@ -12,6 +12,14 @@ permalink: /apps/macos/sangay/
 <br>
 **[📥 Download Sangay Free Space Monitor v3.4.9 (DMG)](/apps/macos/sangay/release/SangayFreeSpaceMonitor-3.4.9.dmg)**
 
+<p align="center">
+  <img src="screenshots/screenshot1.png" height="220" alt="Menu Bar Dropdown" />
+  &nbsp;
+  <img src="screenshots/screenshot2.png" height="220" alt="Storage Dashboard" />
+  &nbsp;
+  <img src="screenshots/screenshot3.png" height="220" alt="Cleanup Preview" />
+</p>
+
 Sangay Free Space Monitor helps Mac users avoid storage emergencies before they interrupt work. It keeps your current disk state visible in the menu bar, alerts you when free space falls too low, and gives you practical tools to recover space safely. 
 
 Cleanup is preview-first, large-item scanning helps you find the biggest storage consumers quickly, and disk history makes trends easy to spot over time.

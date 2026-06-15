@@ -12,6 +12,25 @@ permalink: /apps/macos/alberes/
 <br>
 **[📥 Download Alberes Advanced Time Tracker v1.1 (DMG)](/apps/macos/alberes/release/AlberesAdvancedTimeTracker-1.1.dmg)**
 
+<p align="center">
+  <img src="screenshots/screenshot1.png" height="160" alt="Menu Bar Tracker" />
+  &nbsp;
+  <img src="screenshots/screenshot2.png" height="160" alt="Dashboard" />
+  &nbsp;
+  <img src="screenshots/screenshot3.png" height="160" alt="Settings" />
+  &nbsp;
+  <img src="screenshots/screenshot4.png" height="160" alt="Focus Mode" />
+</p>
+<p align="center">
+  <img src="screenshots/screenshot5.png" height="160" alt="Goals" />
+  &nbsp;
+  <img src="screenshots/screenshot6.png" height="160" alt="Analytics" />
+  &nbsp;
+  <img src="screenshots/screenshot7.png" height="160" alt="Idle Dialog" />
+  &nbsp;
+  <img src="screenshots/screenshot8.png" height="160" alt="Reports" />
+</p>
+
 Alberes Advanced Time Tracker is a native macOS menu bar app for people who want precise, local-first time data, flexible Chapters, and analytics that actually reveal how their days are spent. 
 
 Most trackers force your day into arbitrary blocks. Alberes records down to the second so your logs reflect what actually happened. 
