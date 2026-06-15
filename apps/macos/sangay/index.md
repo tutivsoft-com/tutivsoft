@@ -8,6 +8,10 @@ permalink: /apps/macos/sangay/
 
 **Keep Your Mac Ahead Of Low Disk Space**
 
+[![Download macOS DMG](https://img.shields.io/badge/Download-macOS%20DMG-blue?style=for-the-badge&logo=apple)](/apps/macos/sangay/release/SangayFreeSpaceMonitor-3.4.9.dmg)
+<br>
+**[📥 Download Sangay Free Space Monitor v3.4.9 (DMG)](/apps/macos/sangay/release/SangayFreeSpaceMonitor-3.4.9.dmg)**
+
 Sangay Free Space Monitor helps Mac users avoid storage emergencies before they interrupt work. It keeps your current disk state visible in the menu bar, alerts you when free space falls too low, and gives you practical tools to recover space safely. 
 
 Cleanup is preview-first, large-item scanning helps you find the biggest storage consumers quickly, and disk history makes trends easy to spot over time.

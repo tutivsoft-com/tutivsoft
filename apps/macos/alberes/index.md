@@ -8,6 +8,10 @@ permalink: /apps/macos/alberes/
 
 **Track your life in seconds, not rounded guesses.**
 
+[![Download macOS DMG](https://img.shields.io/badge/Download-macOS%20DMG-blue?style=for-the-badge&logo=apple)](/apps/macos/alberes/release/AlberesAdvancedTimeTracker-1.1.dmg)
+<br>
+**[📥 Download Alberes Advanced Time Tracker v1.1 (DMG)](/apps/macos/alberes/release/AlberesAdvancedTimeTracker-1.1.dmg)**
+
 Alberes Advanced Time Tracker is a native macOS menu bar app for people who want precise, local-first time data, flexible Chapters, and analytics that actually reveal how their days are spent. 
 
 Most trackers force your day into arbitrary blocks. Alberes records down to the second so your logs reflect what actually happened. 
