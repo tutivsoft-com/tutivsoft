@@ -66,3 +66,13 @@ WordHaze is an offline Windows app for creating word-cloud images from text.
 © 2021-2026 TutivSoft. All Rights Reserved.
 
 [Website](https://tutivsoft.com)
+
+<!-- PORTFOLIO-METADATA:START -->
+## Repository metadata
+
+Current source version: **0.0.1** (2026-10-16).
+
+[Architecture](architecture.md) · [AI provenance](ai_model.md) · [History](HISTORY.md) · [Contributors](CONTRIBUTORS.md) · [Manifest](rahul_manifest.yaml).
+
+This maintenance update synchronizes source version metadata and excludes generated junk. Build, runtime, store and deployment verification are separate.
+<!-- PORTFOLIO-METADATA:END -->
